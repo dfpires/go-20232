@@ -10,6 +10,15 @@ Passo 5: Digite GO:Install/Updates. Marque todas as opções e clique em OK
 <br/>
 Passo 6: Fecha e abre o VSCOde novamente
 </br>
+Passo 7: Abra uma pasta com o nome go/primeiro
+<br/>
+Passo 8: Abra um terminal de comando
+<br/>
+Passo 9: Digite o comando para criar um projeto GO: go mod init teste
+<br/>
+Passo 10: Observe que foi criado um arquivo chamado go.mod
+<br/>
+Passo 11: criar um arquivo chamado main.go contendo o conteúdo a seguir: <br/>
 
 
 
